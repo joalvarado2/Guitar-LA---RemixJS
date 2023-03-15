@@ -7,7 +7,7 @@ import {
 } from '@remix-run/react'
 import styles from '~/styles/index.css'
 import Header from '~/components/header'
-import Footer from './components/footer'
+import Footer from '~/components/footer'
 
 export function meta() {
     return (
